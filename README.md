@@ -78,6 +78,6 @@ open_run impl_1report_utilization -hierarchical -file util.rptreport_power      
 
 ## References
 
-* Lee, H., Kim, J., & et al. An FPGA‐Based Quantum Circuit Emulator, IEEE Trans. on Computers, 2016.
+* Lee, Yee Hui and Khalil-Hani, Mohamed and Marsono, Muhammad Nadzir; An FPGA-based quantum circuit emulation framework using Heisenberg representation, International Journal of Quantum Information, 2018
 
 * Xilinx Vivado Design Suite User Guides and Datasheets.
